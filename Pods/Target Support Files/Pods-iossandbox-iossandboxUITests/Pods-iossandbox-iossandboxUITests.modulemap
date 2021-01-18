@@ -1,0 +1,6 @@
+module Pods_iossandbox_iossandboxUITests {
+  umbrella header "Pods-iossandbox-iossandboxUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
